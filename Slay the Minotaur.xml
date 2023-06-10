@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\arceu\IdeaProjects\Text-Based_Adventure\out\artifacts\Text_Based_Adventure_jar\Text-Based_Adventure.jar</jar>
+  <outfile>C:\Users\arceu\IdeaProjects\Text-Based_Adventure\Slay The Minotaur.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\arceu\Downloads\png-transparent-minotaur-legendary-creature-zombie-adventurequest-nonsense-minotauro-legendary-creature-drawer-photography-thumbnail.ico</icon>
+  <classPath>
+    <mainClass>Adventure_Game</mainClass>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>18.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
